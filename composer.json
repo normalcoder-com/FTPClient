@@ -1,0 +1,13 @@
+{
+    "name": "normal/ftp-client",
+    "description": "一个FTP客户端扩展",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "诺墨",
+            "email": "normal@normalcoder.com"
+        }
+    ],
+    "require": {}
+}
